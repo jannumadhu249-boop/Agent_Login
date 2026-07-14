@@ -1,4 +1,4 @@
-# 🔷 Spike Admin - CRM Dashboard
+# Admin - CRM Dashboard
 
 A modern, clean CRM dashboard application built with React and Vite, featuring authentication and lead management capabilities.
 
